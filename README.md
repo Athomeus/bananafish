@@ -16,3 +16,9 @@ This repository is an example exercise for a course in Modelling Textual Data. I
 ## Repository Contents
 
 - `README.md` - Project description
+
+## Wordcloud
+
+![alt text](wordcloud_bananafish.png "Wordcloud")
+
+<iframe style='width: 498px; height: 322px;' src='https://voyant-tools.org/tool/Trends/?query=said&query=sybil&query=girl&query=young&query=man&corpus=1fd87be13a9af67e30677f94eefdf9c5'></iframe>
